@@ -1,5 +1,9 @@
 # python-virtual-env-cheat-sheet
 
+Environment:
+
+* Ubuntu 20.04.4 LTS
+
 
 # Conda
 
