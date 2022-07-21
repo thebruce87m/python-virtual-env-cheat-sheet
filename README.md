@@ -29,4 +29,20 @@ Note: How to delete
 conda env remove -n my-conda-env
 ```
 
+# Venv
 
+Install dependencies
+
+```bash
+sudo apt-get install -y python3-dev python3-venv
+```
+
+Create the virtual environment
+```bash
+python3 -m venv my-venv-env
+```
+
+Active the virtual environment (Each time you open a new terminal)
+```bash
+source my-venv-env/bin/activate
+```
